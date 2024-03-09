@@ -31,5 +31,5 @@ def insert_into_milvus(vector_db, texts: list[str], metadatas: list[dict]):
     vector_db.add_texts(texts, metadatas)
 
 
-def retrive(vector_db, query: str):
+def retrive_doc(vector_db, query: str):
     return vector_db.similarity_search(query)
