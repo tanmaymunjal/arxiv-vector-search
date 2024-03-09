@@ -1,0 +1,44 @@
+question,answer,contexts,ground_truth,answer_relevancy,answer_similarity
+What is quantum physics?,"  The new emerging quantum physics - quantum computing conceptual bridge,
+mandates a ``grand unification'' of space-time-matter and quantum information
+(all quantized), with deep implications for science in general. The major
+physics revolutions in our understanding of the universe are briefly reviewed
+and a ``missing'' equivalence principle is identified and its nature explained.
+An implementation as an external super-symmetry $\C{E}=ic\C{P}$ is suggested,
+generalizing the Wick rotation ``trick''. Taking advantage of the
+interpretation of entropy as a measure of symmetry, it is naturally asimilated
+within the present Feynman Path Integral algebraic formalism.
+",['None'],What is quantum physics?,0.0,0.8522348043797296
+What are the psychological effects of mobile phones?,"  When will the Internet become aware of itself? In this note the problem is
+approached by asking an alternative question: Can the Internet cope with
+stress? By extrapolating the psychological difference between coping and
+defense mechanisms a distributed software experiment is outlined which could
+reject the hypothesis that the Internet is not a conscious entity.
+",['None'],What are the psychological effects of mobile phones?,0.0,0.7860684816672534
+Is life fair?,"  Human beings like to believe they are in control of their destiny. This
+ubiquitous trait seems to increase motivation and persistence, and is probably
+evolutionarily adaptive. But how good really is our ability to control? How
+successful is our track record in these areas? There is little understanding of
+when and under what circumstances we may over-estimate or even lose our ability
+to control and optimize outcomes, especially when they are the result of
+aggregations of individual optimization processes. Here, we demonstrate
+analytically using the theory of Markov Chains and by numerical simulations in
+two classes of games, the Minority game and the Parrondo Games, that agents who
+optimize their strategy based on past information actually perform worse than
+non-optimizing agents. In other words, low-entropy (more informative)
+strategies under-perform high-entropy (or random) strategies. This provides a
+precise definition of the ""illusion of control"" in set-ups a priori defined to
+emphasize the importance of optimization.
+",['None'],Is life fair?,0.8133609550211004,0.76838667174702
+What is madness?,"  A few remarks on how mathematics quests for freedom.
+",['None'],What is madness?,0.0,0.7574446439072788
+The merits of spirituality,"  We present a qualitative study of 20 American Orthodox Jewish families' use
+of home automation for religious purposes. These lead users offer insight into
+real-life, long-term experience with home automation technologies. We discuss
+how automation was seen by participants to contribute to spiritual experience
+and how participants oriented to the use of automation as a religious custom.
+We also discuss the relationship of home automation to family life. We draw
+design implications for the broader population, including surrender of control
+as a design resource, home technologies that support long-term goals and
+lifestyle choices, and respite from technology.
+",['None'],The merits of spirituality,0.7488527814017255,0.786387515830038

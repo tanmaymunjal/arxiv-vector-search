@@ -1,0 +1,74 @@
+question,answer,contexts,ground_truth,answer_relevancy,answer_similarity
+What is quantum physics?,"The degree by which a function can be differentiated need not be restricted
+to integer values. Usually most of the field equations of physics are taken to
+be second order, curiosity asks what happens if this is only approximately the
+case and the field equations are nearly second order. For Robertson-Walker
+cosmology there is a simple fractional modification of the Friedman and
+conservation equations. In general fractional gravitational equations similar
+to Einstein's are hard to define as this requires fractional derivative
+geometry. What fractional derivative geometry might entail is briefly looked at
+and it turns out that even asking very simple questions in two dimensions leads
+to ambiguous or intractable results. A two dimensional line element which
+depends on the Gamma-function is looked at.",['None'],What is quantum physics?,0.0,0.8007538678386092
+What are the psychological effects of mobile phones?,"Controllable story generation is a challenging task in the field of NLP,
+which has attracted increasing research interest in recent years. However, most
+existing works generate a whole story conditioned on the appointed keywords or
+emotions, ignoring the psychological changes of the protagonist. Inspired by
+psychology theories, we introduce global psychological state chains, which
+include the needs and emotions of the protagonists, to help a story generation
+system create more controllable and well-planned stories. In this paper, we
+propose a Psychology-guIded Controllable Story Generation System (PICS) to
+generate stories that adhere to the given leading context and desired
+psychological state chains for the protagonist. Specifically, psychological
+state trackers are employed to memorize the protagonist's local psychological
+states to capture their inner temporal relationships. In addition,
+psychological state planners are adopted to gain the protagonist's global
+psychological states for story planning. Eventually, a psychology controller is
+designed to integrate the local and global psychological states into the story
+context representation for composing psychology-guided stories. Automatic and
+manual evaluations demonstrate that PICS outperforms baselines, and each part
+of PICS shows effectiveness for writing stories with more consistent
+psychological changes.",['None'],What are the psychological effects of mobile phones?,0.7700240921035056,0.7530543073708604
+Is life fair?,"Training ML models which are fair across different demographic groups is of
+critical importance due to the increased integration of ML in crucial
+decision-making scenarios such as healthcare and recruitment. Federated
+learning has been viewed as a promising solution for collaboratively training
+machine learning models among multiple parties while maintaining the privacy of
+their local data. However, federated learning also poses new challenges in
+mitigating the potential bias against certain populations (e.g., demographic
+groups), as this typically requires centralized access to the sensitive
+information (e.g., race, gender) of each datapoint. Motivated by the importance
+and challenges of group fairness in federated learning, in this work, we
+propose FairFed, a novel algorithm for fairness-aware aggregation to enhance
+group fairness in federated learning. Our proposed approach is server-side and
+agnostic to the applied local debiasing thus allowing for flexible use of
+different local debiasing methods across clients. We evaluate FairFed
+empirically versus common baselines for fair ML and federated learning, and
+demonstrate that it provides fairer models particularly under highly
+heterogeneous data distributions across clients. We also demonstrate the
+benefits of FairFed in scenarios involving naturally distributed real-life data
+collected from different geographical locations or departments within an
+organization.",['None'],Is life fair?,0.77740231349606,0.7463758832474772
+What is madness?,"Our collective views regarding the question ""what is fundamental?"" are
+continually evolving. These ontological shifts in what we regard as fundamental
+are largely driven by theoretical advances (""what can we calculate?""), and
+experimental advances (""what can we measure?""). Rarely (in my view) is
+epistemology the fundamental driver; more commonly epistemology reacts (after a
+few decades) to what is going on in the theoretical and experimental zeitgeist.",['None'],What is madness?,0.0,0.7239035537553224
+The merits of spirituality,"In today's rapidly evolving workplace, the dynamics of job satisfaction and
+its determinants have become a focal point of organizational studies. This
+research offers a comprehensive examination of the nexus between spiritual
+intelligence and job satisfaction among female employees, with particular
+emphasis on the moderating role of ethical work environments. Beginning with an
+exploration of the multifaceted nature of human needs, the study delves deep
+into the psychological underpinnings that drive job satisfaction. It elucidates
+how various tangible and intangible motivators, such as salary benefits and
+recognition, play pivotal roles in shaping employee attitudes and behaviors.
+Moreover, the research spotlights the unique challenges and experiences of
+female employees, advocating for a more inclusive understanding of their needs.
+An extensive review of the literature and empirical analysis culminates in the
+pivotal finding that integrating spiritual intelligence and ethical
+considerations within organizational practices can significantly enhance job
+satisfaction. Such a holistic approach, the paper posits, not only bolsters the
+well-being and contentment of female employees but also augments overall
+organizational productivity, retention rates, and morale.",['None'],The merits of spirituality,0.7628877509262205,0.8455273515493047
